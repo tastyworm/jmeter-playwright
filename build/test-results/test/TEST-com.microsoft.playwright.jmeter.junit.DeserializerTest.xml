@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.microsoft.playwright.jmeter.junit.DeserializerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-09-04T02:39:51" hostname="WORMFORCE" time="0.339">
+  <properties/>
+  <testcase name="test deserialize pytest results()" classname="com.microsoft.playwright.jmeter.junit.DeserializerTest" time="0.244"/>
+  <testcase name="test mixed results report()" classname="com.microsoft.playwright.jmeter.junit.DeserializerTest" time="0.052"/>
+  <testcase name="test simple test suites()" classname="com.microsoft.playwright.jmeter.junit.DeserializerTest" time="0.012"/>
+  <testcase name="test deserialize junit results()" classname="com.microsoft.playwright.jmeter.junit.DeserializerTest" time="0.017"/>
+  <testcase name="test complex report()" classname="com.microsoft.playwright.jmeter.junit.DeserializerTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
